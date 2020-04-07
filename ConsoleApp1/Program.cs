@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            //its first app for me
             int i = 10;
             int w = 2;
             int @sum;
